@@ -1,9 +1,10 @@
 import React from 'react';
+import Curvline from './comp/Curvline';
 
 function App() {
   return (
     <div >
-      <h1>hey</h1>
+      <Curvline/>
      
     </div>
   );
